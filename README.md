@@ -1,5 +1,8 @@
 # weather
-
+## What is this?
+This is Weather application that helps you get up-to-date with latest weather forcasts.
+## How does this work?
+It utilizes [openweathermap](https://openweathermap.org/)'s api
 ## Project setup
 ```
 npm install
